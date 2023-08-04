@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning DSAS
+- 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on nothing as of now; 
 - 🤔 I’m looking for help with learning programming language for beginners.
 - 💬 Ask me about Mathematics🌿
