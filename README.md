@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on DSA
+- 🌱 I’m currently learning DSAS
 - 👯 I’m looking to collaborate on nothing as of now; 
 - 🤔 I’m looking for help with learning programming language for beginners.
 - 💬 Ask me about Mathematics🌿
 - 📫 How to reach me: twitter @Mmanav_
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: First year undergrad at VIT
+- ⚡ Fun fact: Sophomores at VIT
 -->
