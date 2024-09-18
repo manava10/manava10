@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Mathematics🌿
 - 📫 How to reach me: twitter @Mmanav_
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sophomores at VIT
+- ⚡ Fun fact: Junior at VIT
 -->
