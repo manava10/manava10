@@ -51,23 +51,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manava10&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manava10&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manava10" />
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manava10&margin-w=10&margin-h=10&no-frame=true" />
-</p>
-
 ---
 
 ## 📌 Featured Projects (Pinned Recommended)
@@ -86,11 +75,6 @@ Here are some projects I’m proud of (check pinned repos 👇):
 - 💼 LinkedIn: **https://www.linkedin.com/in/manavaa/**
 - 🧠 LeetCode: **https://leetcode.com/u/Mmanav10/**
 - 🌍 Portfolio: **https://manav.live**
-
----
-
-## 🐍 Contribution Snake (Super Cool)
-![snake](https://raw.githubusercontent.com/manava10/manava10/output/github-contribution-grid-snake.svg)
 
 ---
 
