@@ -1,5 +1,18 @@
-### Hi there 👋
 
+# Hi, I'm Manav 👋
 
-**manava10/manava10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | MERN | AWS | DSA  
 
+## 🛠 Tech Stack
+- Node.js, Express, MongoDB
+- TypeScript, JavaScript
+- AWS, Git, Docker
+
+## 📌 Current Focus
+- Building backend projects
+- Learning System Design
+- Codeforces + DSA
+
+## 📫 Connect
+- LinkedIn: your link
+- Email: your email
