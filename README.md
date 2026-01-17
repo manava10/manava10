@@ -38,7 +38,7 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,redis,aws,docker,java,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,redis,aws,docker,java,git,github,linux" />
 </p>
 
 ---
@@ -46,30 +46,9 @@
 ## 📌 Current Focus
 - 🚀 Building backend systems with **caching + queues + scalability**
 - ☁️ AWS learning: **EC2, S3, IAM, CloudFormation, CodePipeline**
-- 🧠 Improving DSA problem solving + writing clean code
+- 🧠 Improving DSA problem solving + writing clean code in Java
 - 🔍 Exploring ML concepts and practical projects
 
----
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manava10" />
-</p>
-
----
----
-
-## 📌 Featured Projects (Pinned Recommended)
-Here are some projects I’m proud of (check pinned repos 👇):
-
-- 🔐 **Auth Backend API** — JWT + Role Based Access + Clean Architecture  
-- ⚡ **Redis Caching Layer** — optimized response times & reduced DB load  
-- ☁️ **AWS Cloud Projects** — EC2 + S3 + Queue + Notifications  
-- 🐳 **Dockerized Backend Services** — consistent dev/prod environments  
-- 🧠 **Machine Learning Explorer** — experimenting with ML/DL projects  
-- 🧩 **DSA / LeetCode** — structured problem-solving repository  
-
----
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: **https://www.linkedin.com/in/manavaa/**
