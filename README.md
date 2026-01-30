@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/manavaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/u/Mmanav10/" target="_blank">
+  <a href="https://leetcode.com/u/purplematrix/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://manav.live" target="_blank">
