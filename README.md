@@ -20,34 +20,34 @@
 ---
 
 ## About Me
-- 🔥Backend Engineer focused on **building scalable APIs & distributed systems**
--  Strong in **Node.js + TypeScript**, building clean, production-grade services
--  SRE mindset: **performance, reliability, observability, automation**
--  Working with **AWS, Docker, Redis**, and modern backend architecture
--  Exploring **Machine Learning / Deep Learning** for real-world applications
+- 🔥 Backend Engineer focused on **building scalable APIs & distributed systems**
+- 💡 Strong in **Node.js + TypeScript**, building clean, production-grade services
+- ⚙️ SRE mindset: **performance, reliability, observability, automation**
+- ☁️ Working with **AWS, Docker, Redis**, and modern backend architecture
+- 🧠 Exploring **Machine Learning / Deep Learning** for real-world applications
 
 ---
 
-##  Core Skills
- Backend Engineering • REST APIs • System Design  
-Redis Caching • Auth (JWT) • DB Modeling  
- AWS • Docker • CI/CD Basics • Reliability Engineering  
- Java • TypeScript • Node.js
+## 🛠️ Core Skills
+🏗️ Backend Engineering • REST APIs • System Design  
+🗄️ Redis Caching • Auth (JWT) • DB Modeling  
+☁️ AWS • Docker • CI/CD Basics • Reliability Engineering  
+💻 Java • TypeScript • Node.js
 
 ---
 
-##  Tech Stack
+## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,redis,aws,docker,java,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,redis,aws,docker,git,github,linux" />
 </p>
 
 ---
 
-##  Current Focus
--  Building backend systems with **caching + queues + scalability**
--  AWS learning: **EC2, S3, IAM, CloudFormation, CodePipeline**
--  Improving DSA problem solving + writing clean code in Java
--  Exploring ML concepts and practical projects
+## 🎯 Current Focus
+- 🔧 Building backend systems with **caching + queues + scalability**
+- ☁️ AWS learning: **EC2, S3, IAM, CloudFormation, CodePipeline**
+- 📚 Improving DSA problem solving + writing clean code in Java
+- 🤖 Exploring ML concepts and practical projects
 
 
 ## 🌐 Connect With Me
