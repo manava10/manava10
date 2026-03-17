@@ -52,7 +52,7 @@ Redis Caching • Auth (JWT) • DB Modeling
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: **https://www.linkedin.com/in/manavaa/**
-- 🧠 LeetCode: **https://leetcode.com/u/Mmanav10/**
+- 🧠 LeetCode: **https://leetcode.com/u/purplematrix/**
 - 🌍 Portfolio: **https://manav.live**
 
 ---
