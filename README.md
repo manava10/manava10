@@ -20,7 +20,7 @@
 ---
 
 ## About Me
-- 🔥Backend Engineer focused on **building scalable APIs & distributed systems**
+- Backend Engineer focused on **building scalable APIs & distributed systems**
 -  Strong in **Node.js + TypeScript**, building clean, production-grade services
 -  SRE mindset: **performance, reliability, observability, automation**
 -  Working with **AWS, Docker, Redis**, and modern backend architecture
