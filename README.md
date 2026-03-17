@@ -1,5 +1,5 @@
 # Hi 👋, I'm Manav Mehta
-### Backend Engineer + SRE | Node.js | TypeScript | AWS | Redis | Docker
+## Backend Engineer + SRE | Node.js | TypeScript | AWS | Redis | Docker
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer+%F0%9F%9A%80;SRE+%2F+Cloud+%2F+DevOps+%E2%98%81%EF%B8%8F;Node.js+%7C+TypeScript+%7C+Redis;AWS+%7C+Docker+%7C+System+Design;Machine+Learning+Explorer+%F0%9F%A7%A0&center=true&width=800&height=45">
